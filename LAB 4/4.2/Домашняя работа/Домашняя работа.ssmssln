@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# SQL Server Management Studio Solution File, Format Version 18.00
+VisualStudioVersion = 15.0.28307.421
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{4F2E2C19-372F-40D8-9FA7-9D2138C6997A}") = "Домашняя работа", "Домашняя работа\Домашняя работа.ssmssqlproj", "{2805D1CE-554F-4345-9E88-F4BDEA3CED37}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Default|Default = Default|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2805D1CE-554F-4345-9E88-F4BDEA3CED37}.Default|Default.ActiveCfg = Default
+		{6CBB4AEC-5429-468F-8979-74C89EE7C081}.Default|Default.ActiveCfg = Default
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8BCE3894-63AA-421F-BD0C-073F30407CF6}
+	EndGlobalSection
+EndGlobal
